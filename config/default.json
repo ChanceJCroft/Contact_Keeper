@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://cjcroft:chancecroft@contactkeeper.tkmnx.mongodb.net/test?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://cjcroft:chancecroft@contactkeeper.tkmnx.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
 }
